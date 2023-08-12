@@ -22,4 +22,13 @@ vim-tmux-navimgator - See: https://github.com/christoomey/vim-tmux-navigator
 Lazyvim - https://www.lazyvim.org/
 
 
+# github projects
+
+- https://github.com/Wazzaps/fingerpaint
+- https://github.com/waycrate/swhkd/tree/main
+- https://github.com/rszyma/abstouch-nux
+
+
+
 --lunarvim - https://www.lunarvim.org/docs/installation
+

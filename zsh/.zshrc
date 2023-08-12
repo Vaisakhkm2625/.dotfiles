@@ -21,8 +21,10 @@ plug "Aloxaf/fzf-tab"
 plug "zsh-users/zsh-syntax-highlighting"
 
 
+
 # keybinds
-bindkey '^ ' autosuggest-accept
+plug "$HOME/.config/zsh/keybinds.zsh"
+bindkey '^n' autosuggest-accept
 
 export PATH="$HOME/.local/bin":$PATH
 
@@ -30,5 +32,13 @@ if command -v bat &> /dev/null; then
   alias cat="bat -pp --theme \"Visual Studio Dark+\"" 
   alias catt="bat --theme \"Visual Studio Dark+\"" 
 fi
+
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="$HOME/.sdkman"
+[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
+
+# opam configuration
+[[ ! -r /home/vaisakh/.opam/opam-init/init.zsh ]] || source /home/vaisakh/.opam/opam-init/init.zsh  > /dev/null 2> /dev/null
 
 eval "$(starship init zsh)"

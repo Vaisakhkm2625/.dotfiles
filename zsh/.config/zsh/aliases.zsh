@@ -18,3 +18,12 @@ alias qrpaste="wl-paste | qrencode -t utf8"
 #neovide wayland workaround
 # alias neovide="WINIT_UNIX_BACKEND=x11 snap run neovide"
 # alias neovide="WINIT_UNIX_BACKEND=x11 neovide"
+
+
+ssh() {
+  if [ "$TERM" = "xterm-kitty" ]; then
+    kitty +kitten ssh "$@"
+  else
+    ssh "$@"
+  fi
+}
