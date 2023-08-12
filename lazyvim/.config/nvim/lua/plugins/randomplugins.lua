@@ -1,6 +1,6 @@
 return {
   { "folke/noice.nvim", enabled = false },
-  { "alec-gibson/nvim-tetris" },
+  { "alec-gibson/nvim-tetris", enabled = false },
 
   -- {
   --   "sourcegraph/sg.nvim",

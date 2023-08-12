@@ -45,15 +45,30 @@ return {
         end,
         desc = "harpoon file 4",
       },
+      {
+        "<leader>hc",
+        function()
+          require("harpoon.cmd-ui").toggle_quick_menu()
+        end,
+        desc = "harpoon command ui",
+      },
+      {
+        "<leader>h1",
+        function()
+          require("harpoon.tmux").sendCommand(1, 1)
+        end,
+        desc = "harpoon sent command to 1 buffer",
+      },
+      {
+        "<leader>h2",
+        function()
+          require("harpoon.tmux").sendCommand(1, 1)
+        end,
+        desc = "harpoon sent command to 2 buffer",
+      },
     },
   },
 }
-
---
---   { "stevearc/oil.nvim", keys = {
---     { "<leader>fo", require("oil").open, desc = "oil" },
---   } },
--- }
 
 --[[
 
