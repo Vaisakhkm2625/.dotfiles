@@ -4,6 +4,7 @@
 #
 # Read `man 5 sway` for a complete reference.
 
+
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
@@ -14,7 +15,7 @@ set $down j
 set $up k
 set $right l
 # Your preferred terminal emulator
-set $term foot
+set $term kitty
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
@@ -44,6 +45,10 @@ set $menu dmenu_path | wmenu | xargs swaymsg exec --
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
 # resumed. It will also lock your screen before your computer goes to sleep.
+
+
+exec systemcelt --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
+exec dbus-update --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
 
 ### Input configuration
 #

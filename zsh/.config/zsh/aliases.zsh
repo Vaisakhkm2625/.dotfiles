@@ -4,10 +4,13 @@ alias mv='mv -i'
 alias rm='rm -i'
 
 
+alias lazyvim='NVIM_APPNAME=Lazyvim nvim' 
+alias lv='lazyvim'
+alias v='nvim'
+alias vi='nvim'
 alias r='ranger'
 alias rd='. ranger'
 
-alias vi='nvim'
 alias open='xdg-open'
 
 # lsv for clickable links
