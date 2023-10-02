@@ -20,6 +20,8 @@ eval "$(zoxide init zsh)"
 # eval "`pip completion --zsh`"
  
  
+export LANG=en_IN.UTF-8 #for fixing tmux issue
+
 #fcd for switching directry with fzf
 export FZF_DEFAULT_COMMAND='fd --color=always --type file --follow --hidden --exclude .git'
 export FZF_DEFAULT_OPTS="--ansi"

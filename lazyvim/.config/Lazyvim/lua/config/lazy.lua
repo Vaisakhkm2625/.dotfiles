@@ -38,7 +38,11 @@ require("lazy").setup({
   },
 
   install = { colorscheme = { "tokyonight", "habamax" } },
-  checker = { enabled = true, frequency = 86400 }, -- automatically check for plugin updates
+    checker = { 
+        enabled = true,
+        notify = false,
+        -- check https://youtu.be/6mxWayq-s9I?si=_OOrUNp566cpsbrb&t=1360
+    }, -- automatically check for plugin updates
   performance = {
     rtp = {
       -- disable some rtp plugins

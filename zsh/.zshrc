@@ -41,4 +41,7 @@ export SDKMAN_DIR="$HOME/.sdkman"
 # opam configuration
 [[ ! -r /home/vaisakh/.opam/opam-init/init.zsh ]] || source /home/vaisakh/.opam/opam-init/init.zsh  > /dev/null 2> /dev/null
 
+#tmux on start
+#if [ "$TMUX" = "" ]; then tmux; fi
+
 eval "$(starship init zsh)"
