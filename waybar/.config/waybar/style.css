@@ -329,6 +329,16 @@ window#waybar.empty #window {
     opacity:0.8;
 }
 
+#backlight {
+    background-color: #FFFFFF;
+    font-size: 16px;
+    color: @background;
+    border-radius: 12px;
+    padding: 2px 15px 0px 10px;
+    margin: 5px 15px 5px 0px;
+    opacity:0.8;
+}
+
 #battery.charging, #battery.plugged {
     color: #ffffff;
     background-color: @color11;
@@ -376,9 +386,9 @@ label:focus {
     background-color: #000000;
 }
 
-#backlight {
+/*#backlight {
     background-color: #90b1b1;
-}
+}*/
 
 #network {
     background-color: #2980b9;

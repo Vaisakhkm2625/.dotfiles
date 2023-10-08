@@ -15,6 +15,9 @@ vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
-vim.opt.foldlevelstart = 1
+-- vim.opt.foldlevelstart = 1
 
 vim.opt.swapfile = false
+
+vim.opt.foldlevel=99
+
