@@ -34,7 +34,6 @@
     "modules-left": [
         "custom/appmenu",
         "wlr/taskbar",
-        "wlr/workspaces",
         "group/quicklinks",
         "hyprland/window"
     ],
@@ -42,8 +41,8 @@
 
     // Modules Center
     "modules-center": [
-        //"hyprland/workspaces",
-        "wlr/workspaces"
+        "hyprland/workspaces"
+        //"wlr/workspaces"
     ],
 
     // Modules Right    
@@ -56,6 +55,7 @@
         "group/hardware",
         "custom/exit",
         "network",
+        "tray",
         "clock"
     ],
 

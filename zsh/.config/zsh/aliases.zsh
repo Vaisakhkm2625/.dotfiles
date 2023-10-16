@@ -5,6 +5,7 @@ alias rm='rm -i'
 
 
 alias lazyvim='NVIM_APPNAME=Lazyvim nvim' 
+alias lazyvimnix='NVIM_APPNAME=Lazyvim steam-run nvim'
 alias lv='lazyvim'
 alias v='nvim'
 #alias vi='nvim'

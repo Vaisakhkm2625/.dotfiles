@@ -24,6 +24,15 @@
             "*": 5
         }
     },
+    "backlight": {
+        "device": "intel_backlight",
+        "format": "{icon}  {percent}%",
+        "format-icons": [
+            "",
+            "",
+            ""
+        ]
+    },
     // Taskbar
     "wlr/taskbar": {
         "format": "{icon}",
@@ -75,7 +84,7 @@
     // Filemanager Launcher
     "custom/filemanager": {
         "format": "",
-        "on-click": "~/dotfiles/scripts/filemanager.sh",
+        "on-click": "thunar",
         "tooltip": false
     },
     // Outlook Launcher
@@ -146,7 +155,7 @@
         // "timezone": "America/New_York",
         "format": "{:%I:%M}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format-alt": "{:%Y-%m-%d}"
+        "format-alt": "{:%d-%m-%Y}"
     },
     // CPU
     "cpu": {
@@ -183,7 +192,7 @@
             "critical": 15
         },
         "format": "{icon}   {capacity}%",
-        "format-charging": "  {capacity}%",
+        "format-charging": " {capacity}%",
         "format-plugged": "  {capacity}%",
         "format-alt": "{icon}  {time}",
         // "format-good": "", // An empty format will hide the module
