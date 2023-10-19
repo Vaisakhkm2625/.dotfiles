@@ -1,4 +1,14 @@
 modmap:
   - name: Global
     remap:
-      CapsLock: Esc
+      capsLock:
+        held: leftctrl
+        alone: esc
+        alone_timeout_millis: 150 
+
+keymap:
+  - name: general keys
+    remap:
+      super-d:
+        launch: ["brave"]
+

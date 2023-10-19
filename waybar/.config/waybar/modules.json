@@ -31,7 +31,8 @@
             "",
             "",
             ""
-        ]
+        ],
+        "on-click": "~/dotfiles/scripts/switchtonixwal.sh"
     },
     // Taskbar
     "wlr/taskbar": {

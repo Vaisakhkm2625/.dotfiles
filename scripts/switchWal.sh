@@ -8,4 +8,4 @@ walpaper=$(ls $wallpaperdir | rofi -dmenu)
 pkill -SIGUSR2 waybar
 
 wal -i $wallpaperdir/$walpaper
-swww img $wallpaperdir/$walpaper --transition-type any #random
+swww img $wallpaperdir/$walpaper --transition-type outer --transition-duration 2 #random
