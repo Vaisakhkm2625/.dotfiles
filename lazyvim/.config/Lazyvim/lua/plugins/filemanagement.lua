@@ -1,7 +1,16 @@
 return {
   {
     "ThePrimeagen/harpoon",
-
+        opts = {
+            global_settings = {
+                tabline = false,
+                tabline_prefix = "   ",
+                tabline_suffix = "   ",
+            },
+            menu = {
+                width = vim.api.nvim_win_get_width(0) - 10,
+            },
+        },
     keys = {
       {
         "<leader>m",
@@ -67,6 +76,9 @@ return {
         desc = "harpoon sent command to 2 buffer",
       },
     },
+  --      lazy = false,
+
+
   },
 }
 
