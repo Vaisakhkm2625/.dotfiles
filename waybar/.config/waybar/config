@@ -14,7 +14,8 @@
         "pulseaudio",
         "tray",
         "battery",
-        "clock"
+        "clock",
+        "custom/exit",
     ],
     // modules
     "hyprland/workspaces": {
@@ -82,8 +83,7 @@
         "format-source": "{volume}% ",
         "format-source-muted": "",
         "format-icons": {
-            "headphone": "",
-            "hands-free": "",
+            "headphone": "", "hands-free": "",
             "headset": "",
             "phone": "",
             "portable": "",
@@ -96,4 +96,13 @@
         },
         "on-click": "pavucontrol"
     },
+
+
+    // Power Menu
+    "custom/exit": {
+        "format": "",
+        "on-click": "wlogout",
+        "tooltip": false
+    },
 }
+

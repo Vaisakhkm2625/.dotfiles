@@ -156,3 +156,15 @@ tooltip label {
     color: #FFFFFF;
 }
 
+#custom-exit {
+    margin: 3px 0px 0px 3px;
+    background-color: @color6;
+    font-size: 15px;
+    border-top-right-radius: 0;
+    /* border-top-left-radius: 0; */
+    border-bottom-right-radius: 0;
+    padding: 0 10px 0 10px ;
+    border: 3px solid @color6;
+    color:black;
+    opacity: 0.5;
+}
