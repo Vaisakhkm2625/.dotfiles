@@ -21,3 +21,10 @@ vim.opt.swapfile = false
 
 vim.opt.foldlevel=99
 
+vim.opt.virtualedit = "block"
+
+-- search and replace will show in a split screen
+vim.opt.inccommand = "split"
+
+vim.opt.ignorecase=true
+
