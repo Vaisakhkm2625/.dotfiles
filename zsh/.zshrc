@@ -1,6 +1,10 @@
 #!/bin/sh
 [ -f "$HOME/.local/share/zap/zap.zsh" ] && source "$HOME/.local/share/zap/zap.zsh"
 
+# Notes
+# -----
+# nohup - for detaching processing
+
 # history
 HISTFILE=~/.zsh_history
 
@@ -43,5 +47,6 @@ export SDKMAN_DIR="$HOME/.sdkman"
 
 #tmux on start
 #if [ "$TMUX" = "" ]; then tmux; fi
+
 
 eval "$(starship init zsh)"
