@@ -1,0 +1,17 @@
+[2024-02-25 15:56:59.555] [info] Using configuration file /home/vaisakh/.config/waybar/config
+[2024-02-25 15:56:59.555] [info] Including resource file: ~/.config/waybar/modules.json
+[2024-02-25 15:56:59.557] [info] Using CSS file /home/vaisakh/.config/waybar/style.css
+[2024-02-25 15:56:59.564] [info] Hyprland IPC starting
+[2024-02-25 15:56:59.566] [warning] Mapping is not an object
+[2024-02-25 15:56:59.567] [warning] persistent_workspaces is deprecated. Please change config to use persistent-workspaces.
+[2024-02-25 15:57:00.050] [warning] Requested height: 5 is less than the minimum height: 36 required by the modules
+[2024-02-25 15:57:00.050] [info] Bar configured (width: 1536, height: 36) for output: eDP-1
+[2024-02-25 15:57:08.625] [info] Using configuration file /home/vaisakh/.config/waybar/config
+[2024-02-25 15:57:08.625] [info] Including resource file: ~/.config/waybar/modules.json
+[2024-02-25 15:57:08.627] [info] Using CSS file /home/vaisakh/.config/waybar/style.css
+[2024-02-25 15:57:08.633] [info] Hyprland IPC starting
+[2024-02-25 15:57:08.635] [warning] Mapping is not an object
+[2024-02-25 15:57:08.636] [warning] persistent_workspaces is deprecated. Please change config to use persistent-workspaces.
+[2024-02-25 15:57:09.109] [warning] Requested height: 5 is less than the minimum height: 36 required by the modules
+[2024-02-25 15:57:09.109] [info] Bar configured (width: 1536, height: 36) for output: eDP-1
+[2024-02-25 15:57:09.109] [error] Item '': No icon name or pixmap given.

@@ -98,5 +98,13 @@
                 }
             ]
         }
+    },
+    "scripts": {
+        "example-script": {
+            "exec": "./scripts/show_whatsapp_workspace.sh",
+            "app-name": "Firefox",
+            "summary": "web.whatsapp.com",
+            "body": "Rick Astley - Whenever You Need Somebody"
+        }
     }
 }

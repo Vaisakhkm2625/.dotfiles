@@ -1,16 +1,97 @@
+#virtual_modifiers:
+#  - KEY_MENU
+
 modmap:
   - name: Global
     remap:
+      
+      KEY_COMPOSE: KEY_LEFTMETA
+      #KEY_MENU: KEY_LEFTMETA
+      #KEY_MENU: KEY_SUPER_L # this errors (wev showed Super_L)
+      #
+
       capsLock:
         held: leftctrl
         alone: esc
         alone_timeout_millis: 150 
 
+        
 keymap:
   - name: general keys
     remap:
-      super-d:
-        launch: ["brave"]
+      super-a:
+        remap:
+          f:
+            launch: ["raise","--class", "firefox", "--launch","firefox"]
+          b:
+            launch: ["raise","--class", "brave-browser", "--launch","brave"]
+          k:
+            launch: ["raise","--class", "kitty", "--launch","kitty"]
+          e:
+            launch: ["raise","--class", "thunar", "--launch","thunar"]
+          c:
+            launch: ["raise","--class", "com.github.wwmm.easyeffects", "--launch","easyeffects"]
+
+      super-shift-v:
+            launch: ["bash","-c", "sleep 1 && wtype $(wl-paste)"]
+
+
+      super-shift-a:
+        remap:
+          f:
+            launch: ["firefox"]
+          b:
+            launch: ["brave"]
+          k:
+            launch: ["kitty"]
+          e:
+            launch: ["thunar"]
+
+      super-s:
+        remap:
+          y: 
+            launch: ["bash","-c","raise --class \"firefox\" --launch \"firefox\" && firefox www.youtube.com"]
+          r: 
+            launch: ["bash","-c","raise --class \"firefox\" --launch \"firefox\" && firefox https://play.typeracer.com/"]
+          c: 
+            launch: ["bash","-c","raise --class \"firefox\" --launch \"firefox\" && firefox https://chat.opena<D-s.com/"]
+
+      super-z:
+        remap:
+          t:
+            launch: ["hyprctl","dispatch","togglespecialworkspace","teams"]
+          f:
+            launch: ["hyprctl","dispatch","togglespecialworkspace","scratchfirefox"]
+          c:
+            launch: ["hyprctl","dispatch","togglespecialworkspace","chatgpt"]
+          e:
+            launch: ["pypr","toggle","easyeffects"]
+          k:
+            launch: ["hyprctl","dispatch","togglespecialworkspace","calculator"]
+          n:
+            launch: ["hyprctl","dispatch","togglespecialworkspace","nixsearch"]
+
+
+
+      super-y:
+        remap:
+          p:
+            launch: ["bash","-c","~/dotfiles/scripts/screenshot-pin.sh"]
+          s:
+            launch: ["bash","-c","~/dotfiles/scripts/screenshot.sh"]
+
+
+
+      super-u:
+        remap:
+          w:
+            launch: ["bash","-c","pkill -SIGUSR1 waybar"]
+          b:
+            launch: ["bash","-c","~/dotfiles/scripts/toggleblurhyprland.sh"]
+          o:
+            launch: ["hyprctl","dispatch","toggleopaque"]
+
+
       SHIFT-CTRL-KEY_J: KEY_DOWN
       SHIFT-CTRL-KEY_K: KEY_UP
 

@@ -19,6 +19,10 @@ export XDG_CURRENT_DESKTOP="Wayland"
 eval "$(zoxide init zsh)"
 # eval "`pip completion --zsh`"
  
+
+# Turso
+export PATH="/home/vaisakh/.turso:$PATH"
+
  
 export LANG=en_IN.UTF-8 #for fixing tmux issue
 
@@ -33,3 +37,11 @@ fcd() {
   cd "${target%/*}";
 }
 
+function yd() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXX")"
+	yazi "$@" --cwd-file="$tmp"
+	if cwd="$(cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
+		cd -- "$cwd"
+	fi
+	rm -f -- "$tmp"
+}

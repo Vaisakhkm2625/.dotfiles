@@ -1,0 +1,1208 @@
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+Failed to grab device 'AT Translated Set 2 keyboard' at '/dev/input/event0' due to: Device or resource busy (os error 16)
+Failed to grab device 'Telink Wireless Receiver' at '/dev/input/event4' due to: Device or resource busy (os error 16)
+------------------------------------------------------------------------------
+Error: Failed to prepare input devices: No device was selected!
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=2999
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=5373
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=6204
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+[2024-01-21T10:56:58Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:56:58Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:56:59Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:56:59Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:56:59Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:56:59Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:56:59Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:57:00Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:57:00Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2024-01-21T10:57:00Z ERROR xremap::action_dispatcher] Error running command: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=49785
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=52754
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=6286
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=207905
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=211124
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=212284
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=213080
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=213487
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=241057
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=241764
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=251981
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=263521
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=265961
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=266078
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=268587
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=295879
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=296390
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=298474
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=299839
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Error: Failed to load config '/home/vaisakh/.config/xremap/config.yml': keymap[0].remap: data did not match any variant of untagged enum Actions at line 12 column 7
+Error: Failed to load config '/home/vaisakh/.config/xremap/config.yml': keymap[0].remap: data did not match any variant of untagged enum Actions at line 12 column 7
+Error: Failed to load config '/home/vaisakh/.config/xremap/config.yml': modmap[0].remap: data did not match any variant of untagged enum ModmapAction at line 7 column 7
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Error: Failed to load config '/home/vaisakh/.config/xremap/config.yml': modmap[0].remap: data did not match any variant of untagged enum ModmapAction at line 7 column 7
+Error: Failed to load config '/home/vaisakh/.config/xremap/config.yml': modmap[0].remap: data did not match any variant of untagged enum ModmapAction at line 7 column 7
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap pid=5206
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Jieli Technology UACDemoV1.0
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Mouse
+/dev/input/event3 : Telink Wireless Receiver Consumer Control
+/dev/input/event4 : Telink Wireless Receiver System Control
+/dev/input/event5 : Telink Wireless Receiver
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event5 : Telink Wireless Receiver
+------------------------------------------------------------------------------

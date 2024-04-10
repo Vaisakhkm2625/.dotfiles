@@ -11,6 +11,7 @@ HISTFILE=~/.zsh_history
 # source
 plug "$HOME/.config/zsh/aliases.zsh"
 plug "$HOME/.config/zsh/exports.zsh"
+plug "$HOME/.envsec"
 
 # plugins
 plug "esc/conda-zsh-completion"
@@ -37,6 +38,9 @@ if command -v bat &> /dev/null; then
   alias catt="bat --theme \"Visual Studio Dark+\"" 
 fi
 
+# npm global installs
+export PATH=~/.npm-packages/bin:$PATH
+export NODE_PATH=~/.npm-packages/lib/node_modules
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
@@ -48,5 +52,23 @@ export SDKMAN_DIR="$HOME/.sdkman"
 #tmux on start
 #if [ "$TMUX" = "" ]; then tmux; fi
 
+#marker
+#[[ -s "$HOME/.local/share/marker/marker.sh" ]] && source "$HOME/.local/share/marker/marker.sh"
+
+# # IntelliShell
+# # TODO: install it as nix package, currently
+# # install it from https://github.com/lasantosr/intelli-shell 
+export INTELLI_HOME='/home/vaisakh/.local/share/intelli-shell'
+export INTELLI_SEARCH_HOTKEY=\\C-@
+export INTELLI_LABEL_HOTKEY=\\C-p
+export INTELLI_BOOKMARK_HOTKEY=\\C-a
+export INTELLI_SKIP_ESC_BIND=1
+#alias intelli-shell="'$INTELLI_HOME/bin/intelli-shell'"
+
+source "$INTELLI_HOME/bin/intelli-shell.sh"
+
 
 eval "$(starship init zsh)"
+eval "$(direnv hook zsh)"
+
+

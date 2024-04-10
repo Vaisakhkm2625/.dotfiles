@@ -1,0 +1,687 @@
+[2023-11-24 16:18:34.623] [info] Using configuration file /home/vaisakh/.config/waybar/config
+[2023-11-24 16:18:34.625] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2023-11-24 16:18:34.625] [info] Using CSS file /home/vaisakh/.config/waybar/style.css
+[2023-11-24 16:18:34.632] [info] Hyprland IPC starting
+[2023-11-24 16:18:34.768] [warning] Requested height: 10 is less than the minimum height: 31 required by the modules
+[2023-11-24 16:18:34.768] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+
+** (waybar:6850): WARNING **: 16:18:34.783: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-11-24 16:18:35.111] [warning] Requested height: 31 is less than the minimum height: 33 required by the modules
+[2023-11-24 16:18:35.112] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 16:18:36.875] [info] Quitting.
+[2023-11-24 16:18:52.162] [info] Using configuration file /home/vaisakh/.config/waybar/config
+[2023-11-24 16:18:52.164] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2023-11-24 16:18:52.164] [info] Using CSS file /home/vaisakh/.config/waybar/style.css
+[2023-11-24 16:18:52.171] [info] Hyprland IPC starting
+[2023-11-24 16:18:52.309] [warning] Requested height: 10 is less than the minimum height: 31 required by the modules
+[2023-11-24 16:18:52.309] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+
+** (waybar:7019): WARNING **: 16:18:52.320: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-11-24 16:18:52.657] [warning] Requested height: 31 is less than the minimum height: 33 required by the modules
+[2023-11-24 16:18:52.657] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 16:19:02.862] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 16:19:03.162] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 16:19:03.162] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 16:20:34.066] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 16:20:34.344] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 16:20:34.344] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:26:54.623] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:26:54.904] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:26:54.904] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:38:20.961] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:38:21.238] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:38:21.238] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:38:22.489] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:38:23.105] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:38:23.105] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:38:27.872] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:38:28.755] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:38:28.755] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:38:29.408] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:38:29.688] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:38:29.688] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:44:21.334] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:44:21.633] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:44:21.633] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:44:22.050] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:44:22.366] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:44:22.366] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:44:22.420] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:44:22.716] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:44:22.717] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:44:22.965] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:44:23.267] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:44:23.267] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:02.270] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:02.549] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:02.549] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:03.415] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:03.699] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:03.699] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:04.165] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 17:45:04.316] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 17:45:04.316] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:04.766] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:04.766] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:04.866] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:05.149] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:05.149] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:05.699] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:05.982] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:05.983] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:10.021] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 17:45:10.182] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 17:45:10.182] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:10.331] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:10.331] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:11.190] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:11.482] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:11.483] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:12.133] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:12.415] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:12.416] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:45:17.886] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:45:18.166] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:45:18.166] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:46:44.142] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:46:44.414] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:46:44.414] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:46:44.847] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:46:45.147] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:46:45.147] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:46:45.369] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 17:46:45.530] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 17:46:45.530] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:46:45.914] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:46:45.914] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:46:46.164] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:46:46.464] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:46:46.464] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:46:47.470] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:46:47.765] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 17:46:47.798] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 17:46:47.798] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:46:47.964] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:46:47.964] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:46:48.114] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:46:48.414] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:46:48.414] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:49:32.662] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:49:32.962] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:49:32.962] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:49:33.267] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:49:33.561] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:49:33.562] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:49:34.012] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:49:34.312] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:49:34.312] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:49:35.178] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:49:35.477] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:49:35.477] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:49:35.583] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:49:35.862] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:49:35.862] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:49:36.045] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:49:36.345] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:49:36.345] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:53:18.991] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:53:19.273] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:53:19.274] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 17:57:07.320] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 17:57:07.619] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 17:57:07.619] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:03.677] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:03.961] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:03.961] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:04.394] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:04.677] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:04.677] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:05.010] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:05.310] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:05.310] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:41.626] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:41.927] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:41.927] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:45.960] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:46.243] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:46.243] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:48.221] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:48.493] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:48.493] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:54.536] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:54.810] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:54.810] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:55.646] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:55.943] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:55.943] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:56.459] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:56.760] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:56.760] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:05:57.576] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:05:57.859] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:05:57.859] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:06:02.130] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:06:02.426] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:06:02.427] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:06:03.509] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:06:03.793] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:06:03.793] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:06:04.577] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:06:04.860] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:06:04.860] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:06:05.810] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:06:06.092] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:06:06.092] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:07:05.512] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:07:05.809] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:07:05.809] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:07:07.878] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:07:08.175] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:07:08.176] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:10:49.289] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:10:49.589] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:10:49.589] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:10:50.572] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:10:50.855] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:10:50.855] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:10:51.055] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:10:51.339] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:10:51.339] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:10:51.522] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:10:51.821] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:10:51.821] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:11:24.671] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:11:24.971] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:11:24.972] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 18:11:25.488] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 18:11:25.771] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 18:11:25.771] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 19:11:06.371] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 19:11:06.655] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 19:11:06.656] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 19:28:08.736] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 19:28:09.004] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 19:28:09.004] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 19:28:09.370] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 19:28:09.670] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 19:28:09.670] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 19:48:48.824] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 19:48:49.123] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 19:48:49.123] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 19:48:49.790] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 19:48:50.090] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 19:48:50.090] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:19:15.130] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:19:15.430] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:19:15.430] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:19:44.380] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:19:44.664] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:19:44.664] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:20:10.904] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:20:11.180] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:20:11.180] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:21:02.417] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:21:02.696] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:21:02.696] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:21:11.279] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:21:11.579] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:21:11.579] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:21:56.828] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:21:57.129] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:21:57.129] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:25:49.710] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:25:50.008] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:25:50.008] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:25:50.725] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:25:51.024] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:25:51.024] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:25:51.125] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 20:25:51.258] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 20:25:51.258] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:25:51.424] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:25:51.424] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:26:24.125] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:26:24.424] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:26:24.424] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:26:32.224] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:26:32.508] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:26:32.508] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:26:41.807] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:26:42.091] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:26:42.091] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:26:42.642] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 20:26:42.791] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 20:26:42.791] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:26:42.957] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:26:42.957] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:26:45.724] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:26:46.008] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:26:46.008] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+
+** (waybar:7019): WARNING **: 20:26:51.755: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:7019): LIBDBUSMENU-GLIB-WARNING **: 20:26:54.794: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+
+** (waybar:7019): WARNING **: 20:26:54.796: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-11-24 20:27:57.056] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 20:27:57.206] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 20:27:57.206] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:27:57.372] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:27:57.372] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:27:58.292] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:27:58.572] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:27:58.572] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:28:00.023] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:28:00.322] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:28:00.322] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:28:00.722] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:28:01.005] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:28:01.005] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+
+** (waybar:7019): WARNING **: 20:28:04.090: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-11-24 20:28:14.390] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:28:14.673] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:28:14.673] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:28:15.256] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:28:15.540] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:28:15.540] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:28:36.825] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:28:37.122] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:28:37.122] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:28:52.240] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:28:52.539] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:28:52.540] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:29:00.907] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:29:01.206] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:29:01.206] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:29:01.956] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:29:02.239] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:29:02.239] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:29:04.907] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:29:05.205] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:29:05.205] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:29:47.057] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:29:47.354] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:29:47.354] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:30:16.055] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:30:16.354] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:30:16.354] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:30:20.621] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:30:20.920] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:30:20.920] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:45:13.541] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:45:13.838] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:45:13.838] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:45:14.289] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:45:14.589] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:45:14.589] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:45:14.806] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:45:15.105] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:45:15.106] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:47:03.575] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:47:03.871] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:47:03.871] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:47:04.574] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:47:04.872] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:47:04.872] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 20:47:04.993] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 20:47:05.271] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 20:47:05.272] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:00.072] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:00.362] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:00.363] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:02.329] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:29:02.479] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:29:02.479] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:02.629] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:02.629] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:02.896] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:03.179] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:03.179] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:05.662] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:29:05.829] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:29:05.829] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:05.962] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:05.962] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:06.747] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:07.046] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:07.046] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:08.046] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:08.329] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:08.329] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+
+(waybar:7019): LIBDBUSMENU-GLIB-WARNING **: 21:29:10.875: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+
+** (waybar:7019): WARNING **: 21:29:10.884: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-11-24 21:29:37.111] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:37.411] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:37.411] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:38.116] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:38.411] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:38.412] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:46.961] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:47.261] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:47.261] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:50.353] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:50.628] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:50.628] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:29:52.694] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:29:52.978] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:29:52.978] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:30:52.494] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:30:52.777] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:30:52.777] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:30:53.062] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:30:53.343] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:30:53.343] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:30:58.106] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:30:58.377] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:30:58.377] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:30:58.660] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:30:58.943] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:30:58.944] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:31:11.378] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:31:11.977] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:31:11.977] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:31:12.976] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:31:13.510] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:31:13.510] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:32:37.491] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:32:37.791] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:32:37.791] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:32:50.925] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:32:51.208] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:32:51.208] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:34:36.490] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:34:36.773] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:34:36.773] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:34:41.906] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:34:42.190] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:34:42.190] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:34:42.623] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:34:42.922] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:34:42.922] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:34:47.057] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:34:47.357] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:34:47.357] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:35:06.106] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:35:06.390] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:35:06.390] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:35:24.739] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:35:25.039] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:35:25.039] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:35:59.022] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:35:59.305] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:35:59.305] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:39:18.185] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:39:18.485] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:39:18.485] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:39:20.652] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:39:20.935] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:39:20.935] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:39:31.568] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:39:31.851] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:39:31.851] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:40:05.685] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:40:05.967] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:40:05.967] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:42:20.399] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:42:20.682] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:42:20.682] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:42:33.414] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:42:33.714] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:42:33.715] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:42:54.465] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:42:54.765] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:42:54.765] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:43:10.465] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:43:10.764] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:43:10.764] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:43:50.913] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:43:51.197] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:43:51.197] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:54:54.451] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:54:54.734] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:54:54.734] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:54:59.940] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:55:00.235] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:55:00.235] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:55:12.334] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:55:12.618] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:55:12.618] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:55:30.986] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:55:31.267] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:55:31.267] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:55:34.851] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:55:35.134] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:55:35.134] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:26.399] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:26.682] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:26.682] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:41.699] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:41.982] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:41.982] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:43.632] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:43.933] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:43.933] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:44.549] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:44.848] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:44.848] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:46.599] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:46.899] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:46.899] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:50.215] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:50.515] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:50.515] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:51.183] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:56:51.316] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:56:51.316] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:51.465] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:51.466] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:51.899] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:52.191] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:56:52.348] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:56:52.348] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:52.499] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:52.499] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:52.634] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:52.916] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:52.916] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:56:53.583] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:56:53.732] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:56:53.732] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:56:53.866] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:56:53.866] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:57:57.948] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:57:58.231] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:57:58.231] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:01.399] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:01.698] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:01.698] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:24.882] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:25.164] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:25.164] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:25.948] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:26.246] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:26.246] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:26.980] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:27.279] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:27.280] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:30.314] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:30.596] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:30.596] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:30.765] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:31.064] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:31.064] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:31.429] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:31.730] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:31.730] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:32.230] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:58:32.396] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:58:32.396] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:32.796] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:32.796] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:32.830] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:33.129] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:33.129] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:33.280] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:33.580] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:33.580] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:33.799] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:34.097] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:34.097] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:35.063] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:35.347] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:35.347] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:35.914] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:36.197] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:36.197] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:36.667] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:37.062] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:58:37.079] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:58:37.079] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:37.347] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:58:37.364] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:58:37.364] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:37.512] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:37.513] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:37.681] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:37.963] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:37.963] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:58:38.247] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:58:38.530] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:58:38.530] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:59:31.496] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:59:31.779] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:59:31.779] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:59:55.363] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:59:55.662] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:59:55.662] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:59:57.012] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:59:57.294] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:59:57.294] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:59:57.412] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:59:57.695] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:59:57.695] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:59:58.478] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 21:59:58.628] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 21:59:58.628] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 21:59:59.062] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 21:59:59.062] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 21:59:59.813] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:00:00.095] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:00:00.095] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:00:08.750] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:00:09.028] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:00:09.028] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:01:03.911] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:01:04.194] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:01:04.194] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:01:06.510] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:01:06.811] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:01:06.811] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:07:00.471] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:07:00.754] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:07:00.754] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:08:22.735] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:08:23.035] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:08:23.035] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:08:45.836] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:08:46.135] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:08:46.135] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:09:07.752] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:09:08.034] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:09:08.034] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:09:20.635] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:09:20.935] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:09:20.935] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:10:23.400] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:10:23.683] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:10:23.683] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:10:23.817] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:10:24.116] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:10:24.116] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:10:24.470] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:10:24.750] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:10:24.751] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:10:58.766] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:10:59.049] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:10:59.049] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:11:41.682] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:11:41.965] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:11:41.965] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:11:46.798] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:11:47.098] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:11:47.098] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:11:50.082] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:11:50.365] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:11:50.365] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:12:15.198] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:12:15.482] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:12:15.482] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:12:18.749] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:12:19.047] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:12:19.047] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:13:59.479] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:13:59.780] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:13:59.780] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:14:06.299] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:14:06.596] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:14:06.596] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:14:07.796] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:14:08.095] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:14:08.095] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:14:08.846] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:14:09.129] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:14:09.129] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:17:07.437] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:17:07.710] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:17:07.710] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:20:41.189] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:20:41.489] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:20:41.489] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:20:41.791] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:20:42.072] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:20:42.072] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:20:52.390] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:20:52.622] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:20:52.622] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:21:07.805] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:21:08.088] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:21:08.089] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:21:37.238] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:21:37.521] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:21:37.521] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:22:15.172] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:22:15.454] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:22:15.454] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:22:45.604] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:22:45.903] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:22:45.903] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:26:30.951] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:26:31.235] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:26:31.235] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:27:54.661] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:27:54.934] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:27:54.934] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:27:55.317] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:27:55.600] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:27:55.600] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:27:58.933] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:27:59.233] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:27:59.233] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:31:50.314] [info] Bar configured (width: 1536, height: 31) for output: eDP-1
+[2023-11-24 22:31:50.464] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2023-11-24 22:31:50.464] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:31:50.614] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:31:50.614] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+
+(waybar:7019): Gtk-WARNING **: 22:34:49.236: Failed to set text 'Snap search results for &apos;jellyfin&a' from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+
+(waybar:7019): Gtk-WARNING **: 22:35:19.037: Failed to set text 'Snap search results for &apos;jellyfin&a' from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity — escape ampersand as &amp;
+[2023-11-24 22:38:07.793] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:38:08.091] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:38:08.091] [info] Bar configured (width: 1536, height: 33) for output: eDP-1
+[2023-11-24 22:38:13.111] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-11-24 22:38:13.391] [warning] Requested height: 32 is less than the minimum height: 33 required by the modules
+[2023-11-24 22:38:13.391] [info] Bar configured (width: 1536, height: 33) for output: eDP-1

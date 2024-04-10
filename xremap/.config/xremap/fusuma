@@ -1,0 +1,50 @@
+swipe:
+  3:
+    left:
+      command: "xdotool key super+Page_Down" # Switch to next workspace
+    right:
+      command: "xdotool key super+Page_Up" # Switch to previous workspace
+    up:
+      command: "xdotool key super+Left" # Window layout left
+    down:
+      command: "xdotool key super+Right" # Window layout right
+  4:
+    left:
+      begin:
+        command: "xdotool keydown ctrl"
+      update:
+        command: "xdotool key ctrl+Page_Up" # Switch to previous tab
+        interval: 0.8
+      end:
+        command:  "xdotool keyup ctrl"
+    right:
+      begin:
+        command: "xdotool keydown ctrl"
+      update:
+        command: "xdotool key ctrl+Page_Down" # Switch to next tab
+        interval: 0.8
+      end:
+        command:  "xdotool keyup ctrl"
+    up:
+      command: "xdotool key ctrl+t" # Open new tab
+    down:
+      command: "xdotool key ctrl+w" # Close the tab
+      
+pinch:	
+  3:
+    in:
+      command: "hyprctl keyword misc:cursor_zoom_factor \"$(hyprctl getoption misc:cursor_zoom_factor | grep float | awk '{print $2 - 1}')\"" # Minimize window
+    out:
+      command: "hyprctl keyword misc:cursor_zoom_factor \"$(hyprctl getoption misc:cursor_zoom_factor | grep float | awk '{print $2 + 1}')\"" # Maximize window
+
+hold:
+  2:
+    command: "xdotool key super" # Window overview
+  3:
+    command: "xdotool keydown super keyup super keydown super keyup super" # Workspace overview
+  4:
+    command: "xdotool key F5" # Refresh the tab
+    
+threshold:
+  swipe: 0.7
+  pinch: 0.1

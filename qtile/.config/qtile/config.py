@@ -185,8 +185,9 @@ bar_right = ""
 
 scratchpad = [
         #ScratchPads
-        ScratchPad("term",[DropDown("terminal","alacritty")]),
-        ScratchPad("fileman",[DropDown("filemanager","dolphin")]),
+        ScratchPad("term",[DropDown("terminal","kitty")]),
+    #ScratchPad("term",[DropDown("terminal","alacritty")]),
+        ScratchPad("fileman",[DropDown("filemanager","thunar")]),
         ScratchPad("dict",[DropDown("dictionary","quick-lookup --selection")]),
         ScratchPad("calc",[DropDown("calculator","qalculate-qt")])
         ]
@@ -231,7 +232,7 @@ for i in groups[0:9]:
             )
 
 layouts = [
-        layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], margin=gap, border_width=4),
+        layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"],opacity =0.8, margin=gap, border_width=4),
         layout.Max(),
         # Try more layouts by unleashing below layouts.
         # layout.Stack(num_stacks=2),
@@ -297,6 +298,7 @@ screens = [
                 margin=gap*2,
                 #background=["#0000FF","#000000", "#FFFFFF"]
                 background="#000011aa",
+                opacity = 0.7,
                 border_width=[2, 0, 2, 0],  # Draw top and bottom borders
                  #border_color=["ff00ff", "000000", "ff00ff", "000000"]  # Borders are magenta
                 ),
@@ -321,8 +323,8 @@ follow_mouse_focus = False
 bring_front_click = False
 cursor_warp = False
 floating_layout = layout.Floating(
+    # Run the utility of `xprop` to see the wm class and name of an X client.
         float_rules=[
-            # Run the utility of `xprop` to see the wm class and name of an X client.
             *layout.Floating.default_float_rules,
             Match(wm_class="confirmreset"),  # gitk
             Match(wm_class="makebranch"),  # gitk
@@ -404,4 +406,3 @@ keys.extend([
     Key([mod], 'h', lazy.function(pt.left)),
     Key([mod], 'l', lazy.function(pt.right)),
 ])
-

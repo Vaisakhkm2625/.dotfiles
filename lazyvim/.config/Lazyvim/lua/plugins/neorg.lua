@@ -1,55 +1,85 @@
 return {
-  {
-    "nvim-neorg/neorg",
-    build = ":Neorg sync-parsers",
+    {
+        "nvim-neorg/neorg",
+        build = ":Neorg sync-parsers",
+        ft = "norg",
+        keys = {
+            { "<leader>nw", "<cmd>Neorg workspace<cr>", desc = "Neorg workspaces" },
+            { "<leader>ni", "<cmd>Neorg index<cr>", desc = "Neorg index" },
+        },
 
-    keys = {
-      { "<leader>nw", "<cmd>Neorg workspace<cr>", desc = "Neorg workspaces" },
-      { "<leader>ni", "<cmd>Neorg index<cr>", desc = "Neorg index" },
-    },
-
-    opts = {
-      load = {
-        ["core.defaults"] = {}, -- Loads default behaviour
-        ["core.integrations.image"] = {},
-        ["core.concealer"] = { -- Adds pretty icons to your documents
+        opts = {
+            load = {
+                ["core.defaults"] = {}, -- Loads default behaviour
+                ["core.concealer"] = { -- Adds pretty icons to your documents
                     icon_preset = "diamond"
                 }, 
-        ["core.summary"] = {},
-        ["core.dirman"] = { -- Manages Neorg workspaces
-          config = {
-            workspaces = {
-              notes = "~/notes",
+                ["core.summary"] = {},
+                ["core.dirman"] = { -- Manages Neorg workspaces
+                    config = {
+                        workspaces = {
+                            notes = "~/notes",
+                            work_notes = "~/work_notes",
+                        },
+                        default_workspace = "notes",
+                    },
+                },
+                ["core.integrations.image"] = {},
+
+                ["core.keybinds"] = {
+                    config = {
+                        hook = function(keybinds)
+                            keybinds.remap_event("norg", "n", "<LocalLeader>l", "core.looking-glass.magnify-code-block")
+                        end
+                    }
+                },
+
+                ["core.export"] = {}
+
+                --["core.latex.renderer"] = {},
+                -- ["core.presenter"] = {
+                --            zen_mode = "zen-mode"
+                --        },
+
             },
-            default_workspace = "notes",
-          },
         },
-      },
+        dependencies = {
+            { "nvim-lua/plenary.nvim" },
+        },
     },
-    dependencies = {
-      { "nvim-lua/plenary.nvim" },
+    {
+        "folke/zen-mode.nvim",
     },
-  },
-  {
-    "jbyuki/nabla.nvim",
-    keys = {
-      {
-        "<leader>n",
-        desc = "Notes",
-      },
-      {
-        "<leader>nl",
-        function()
-          require("nabla").popup()
+    {
+        "jbyuki/nabla.nvim",
+        keys = {
+            {
+                "<leader>n",
+                desc = "Notes",
+            },
+            {
+                "<leader>nl",
+                function()
+                    require("nabla").popup()
+                end,
+                desc = "Notation",
+            },
+        },
+        config = function()
+            require("nabla").enable_virt()
         end,
-        desc = "Notation",
-      },
     },
-    config = function()
-      require("nabla").enable_virt()
-    end,
-  },
+    {
+        'chomosuke/typst-preview.nvim',
+        lazy = false, -- or ft = 'typst'
+        version = '0.1.*',
+        build = function() require 'typst-preview'.update() end,
+    }
+
 }
+
+
+
 
 --[[
 -- image

@@ -1,0 +1,185 @@
+@import '../../.cache/wal/colors-waybar.css';
+
+* {
+    border: none;
+    border-radius: 15px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    min-height: 0;
+}
+
+window#waybar {
+    /*background: rgba(43, 48, 59, 0.5);*/
+    background: transparent;
+    /*border-bottom: 3px solid rgba(100, 114, 125, 0.5);*/
+    color: white;
+}
+
+tooltip {
+  background: rgba(43, 48, 59, 0.5);
+  border: 1px solid rgba(100, 114, 125, 0.5);
+}
+
+tooltip label {
+  color: white;
+}
+
+#workspaces {
+    margin: 4px 4px 0px 4px;
+    background: @background;
+    opacity: 0.6;
+}
+
+#workspaces button {
+    margin: 3px;
+    padding: 0px 10px 1px 5px;
+    border: 1px solid #FFFFFF;
+    background: @color11;
+    color: white;
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+    /*border-bottom: 3px solid transparent;*/
+}
+
+#workspaces button.active {
+    background: @color8;
+    border-bottom: 3px solid white;
+}
+
+#workspaces button.focused {
+    background: #64727D;
+    border-bottom: 3px solid white;
+}
+
+#workspaces button:hover {
+    background-color: @color1;
+    color: #cdd6f4;
+    padding: 0px 15px 0px 10px;
+    background-size: 400% 400%;
+}
+
+#window {
+    background-color: @color2;
+    padding: 2px 8px 2px 8px;
+    margin: 4px 4px 0px 4px;
+    border-bottom: 3px solid #ffffff;
+    /* border-top: 3px solid #ffffff; */
+
+    color: black;
+    /* border: 1px solid #FFFFFF; */
+    opacity: 0.8;
+}
+
+#mpris {
+    background-color: @color5;
+    padding: 2px 8px 2px 8px;
+    margin: 4px 4px 0px 4px;
+    border-bottom: 3px solid #ffffff;
+    /* border-top: 3px solid #ffffff; */
+
+
+}
+
+#mode, #clock, #battery,#backlight,#pulseaudio,#tray{
+    margin: 2px 2px 0px 2px;
+    padding: 0 8px;
+    border: 3px solid white;
+    margin: 4px 4px 0px 4px;
+}
+
+#mode {
+    margin: 4px 4px 0px 4px;
+    background: #64727D;
+    border-bottom: 3px solid white;
+}
+
+#clock {
+    background-color: @color4;
+    opacity: 0.8;
+}
+
+
+#battery {
+    background-color: @color3;
+    color: black;
+}
+
+#battery.charging {
+    color: white;
+    background-color: green;
+}
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: black;
+    }
+}
+
+#battery.warning:not(.charging) {
+    color: white;
+    background-color: orange;
+}
+
+#battery.critical:not(.charging) {
+    background: #f53c3c;
+    color: white;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+#tray {
+    background-color: #fa9716;
+    color: @background;
+    opacity:0.8;
+    border: 3px solid #fa9716;
+}
+
+#tray > .passive {
+    -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+    -gtk-icon-effect: highlight;
+    background-color: #eb4d4b;
+}
+
+#backlight {
+    background-color: @color3;
+    color: black;
+
+    /* background-color: #FFFFFF; */
+    color: @background;
+    margin: 4px 4px 0px 4px;
+    opacity:0.8;
+
+}
+
+#pulseaudio {
+    background-color: @color4;
+    color: @background;
+    opacity:0.8;
+}
+
+#pulseaudio.muted {
+    background-color: @color11;
+    color: #FFFFFF;
+}
+
+
+#custom-exit {
+    margin: 3px 0px 0px 3px;
+    background-color: @color6;
+    font-size: 15px;
+    border-top-right-radius: 0;
+    /* border-top-left-radius: 0; */
+    border-bottom-right-radius: 0;
+    padding: 0 10px 0 10px ;
+    border: 3px solid @color6;
+    color:black;
+    opacity: 0.5;
+}

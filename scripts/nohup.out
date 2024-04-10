@@ -1,0 +1,91 @@
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event18: xremap
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Selecting devices from the following list:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event1 : Telink Wireless Receiver Mouse
+/dev/input/event10: MSFT0001:01 06CB:CE2D Touchpad
+/dev/input/event11: Integrated Camera: Integrated C
+/dev/input/event12: Video Bus
+/dev/input/event13: sof-hda-dsp Mic
+/dev/input/event14: sof-hda-dsp Headphone
+/dev/input/event15: sof-hda-dsp HDMI/DP,pcm=3
+/dev/input/event16: sof-hda-dsp HDMI/DP,pcm=4
+/dev/input/event17: sof-hda-dsp HDMI/DP,pcm=5
+/dev/input/event2 : Telink Wireless Receiver Consumer Control
+/dev/input/event3 : Telink Wireless Receiver System Control
+/dev/input/event4 : Telink Wireless Receiver
+/dev/input/event5 : Jieli Technology UACDemoV1.0
+/dev/input/event6 : Lid Switch
+/dev/input/event7 : Power Button
+/dev/input/event8 : Ideapad extra buttons
+/dev/input/event9 : MSFT0001:01 06CB:CE2D Mouse
+------------------------------------------------------------------------------
+Selected keyboards automatically since --device options weren't specified:
+------------------------------------------------------------------------------
+/dev/input/event0 : AT Translated Set 2 keyboard
+/dev/input/event4 : Telink Wireless Receiver
+------------------------------------------------------------------------------
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+Reloading Config
+[2024-02-12 00:45:09.084] [info] Using configuration file /home/vaisakh/.config/waybar/config
+[2024-02-12 00:45:09.085] [info] Including resource file: ~/.config/waybar/modules.json
+[2024-02-12 00:45:09.087] [info] Using CSS file /home/vaisakh/.config/waybar/style.css
+[2024-02-12 00:45:09.093] [info] Hyprland IPC starting
+[2024-02-12 00:45:09.095] [warning] Mapping is not an object
+[2024-02-12 00:45:09.097] [warning] persistent_workspaces is deprecated. Please change config to use persistent-workspaces.
+[2024-02-12 00:45:09.667] [warning] Requested height: 5 is less than the minimum height: 36 required by the modules
+[2024-02-12 00:45:09.667] [info] Bar configured (width: 1536, height: 36) for output: eDP-1
+[2024-02-12 00:45:09.667] [error] Item '': No icon name or pixmap given.
+[2024-02-12 00:45:09.668] [error] Item '': No icon name or pixmap given.
+
+(waybar:112738): LIBDBUSMENU-GLIB-WARNING **: 01:23:08.290: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+[2024-02-12 02:28:43.241] [error] network: argument not found
+
+** (waybar:112738): WARNING **: 03:13:57.701: Status Notifier Item with bus name ':1.169' and object path '/org/ayatana/NotificationItem/Proton_VPN_Tray' is already registered
+[2024-02-12 03:35:20.289] [error] Item 'nm-applet': Could not find an icon named 'nm-no-connection-secure' and no pixmap given.
+[2024-02-12 03:35:20.532] [error] network: argument not found
+[2024-02-12 03:35:20.532] [error] network: argument not found
+[2024-02-25 15:56:19.832] [info] Using configuration file /home/vaisakh/.config/waybar/config
+[2024-02-25 15:56:19.833] [info] Including resource file: ~/.config/waybar/modules.json
+[2024-02-25 15:56:19.835] [info] Using CSS file /home/vaisakh/.config/waybar/style.css
+[2024-02-25 15:56:19.841] [info] Hyprland IPC starting
+[2024-02-25 15:56:19.843] [warning] Mapping is not an object
+[2024-02-25 15:56:19.845] [warning] persistent_workspaces is deprecated. Please change config to use persistent-workspaces.
+[2024-02-25 15:56:20.316] [warning] Requested height: 5 is less than the minimum height: 36 required by the modules
+[2024-02-25 15:56:20.316] [info] Bar configured (width: 1536, height: 36) for output: eDP-1
+[2024-02-25 15:56:20.316] [error] Item '': No icon name or pixmap given.

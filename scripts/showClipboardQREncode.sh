@@ -1,0 +1,1 @@
+qrencode $(wl-paste)
