@@ -160,6 +160,7 @@
     "clock": {
         // "timezone": "America/New_York",
         "format": "{:%I:%M}",
+        //"format": "{:11:%M}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%d-%m-%Y}"
     },
@@ -169,7 +170,7 @@
     },
     // Memory
     "memory": {
-        "format": "/ M {}% "
+        "format": "/ M {percentage}% "
     },
     // Harddisc space used
     "disk": {

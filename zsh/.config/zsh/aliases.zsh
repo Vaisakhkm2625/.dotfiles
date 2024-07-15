@@ -19,7 +19,7 @@ alias rd='yd'
 alias open='xdg-open'
 
 # lsv for clickable links
-alias lsv='/bin/ls --hyperlink=auto --color=auto'
+alias lsv='/bin/ls --hyperlink=auto --color=auto's
 
 alias qrpaste="wl-paste | qrencode -t utf8"
 
@@ -36,10 +36,10 @@ alias fix_xremap="pkill xremap;nohup xremap ~/.config/xremap/config.yml --watch=
 
 
 
-ssh() {
-  if [ "$TERM" = "xterm-kitty" ]; then
-    kitty +kitten ssh "$@"
-  else
-    ssh "$@"
-  fi
-}
+#ssh() {
+#  if [ "$TERM" = "xterm-kitty" ]; then
+#    kitty +kitten ssh "$@"
+#  else
+#    ssh "$@"
+#  fi
+#}

@@ -70,7 +70,8 @@ keymap:
             launch: ["hyprctl","dispatch","togglespecialworkspace","calculator"]
           n:
             launch: ["hyprctl","dispatch","togglespecialworkspace","nixsearch"]
-
+          b:
+            launch: ["rofi-bluetooth"]
 
 
       super-y:

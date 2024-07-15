@@ -16,9 +16,9 @@
         "all-outputs": true,
         "format": "{icon}",
         "format-icons": {
-            "urgent": "",
-            "active": "",
-            "default": ""
+            "urgent": "{icon}",
+            "active": "{icon}",
+            "default": "{icon}"
         },
         "persistent_workspaces": {
             "*": 5

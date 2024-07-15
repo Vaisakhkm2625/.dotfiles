@@ -2,6 +2,17 @@ return {
     { "folke/noice.nvim", enabled = true },
     { "folke/zen-mode.nvim", enabled = true },
     { "HiPhish/nvim-ts-rainbow2", enabled = true },
+    { "yuratomo/w3m.vim", enabled = true },
+    {
+        "OXY2DEV/markview.nvim",
+        dependencies = {
+            "nvim-tree/nvim-web-devicons", -- Used by the code bloxks
+        },
+
+        config = function ()
+            require("markview").setup();
+        end
+    },
 
 
     {  "norcalli/nvim-colorizer.lua",
@@ -15,6 +26,26 @@ return {
     {
         "tpope/vim-abolish",
     },
+
+    {
+        "codethread/qmk.nvim",
+        enabled = false,
+        config = function()
+            ---@type qmk.UserConfig
+            local conf = {
+                name = 'LAYOUT_preonic_grid',
+                layout = {
+                    '_ x x x x x x _ x x x x x x',
+                    '_ x x x x x x _ x x x x x x',
+                    '_ x x x x x x _ x x x x x x',
+                    '_ _ _ _ x x x _ x x x _ _ _',
+                },
+                variant = 'zmk'
+            }
+            require('qmk').setup(conf)
+        end,
+    },
+
 
     -- disabling flash
     {
@@ -37,8 +68,15 @@ return {
         opts = {}
     },
 
+    {
+        "echasnovski/mini.animate"
 
-    { "alec-gibson/nvim-tetris", enabled = false },
+    },
+
+
+    { "alec-gibson/nvim-tetris", enabled = true},
+    { "KilianVounckx/nvim-tetris", enabled = false},-- with hjkl support, buggy
+
     {
         "iamcco/markdown-preview.nvim",
         cmd = { "MarkdownPreviewToggle", "MarkdownPreview", "MarkdownPreviewStop" },

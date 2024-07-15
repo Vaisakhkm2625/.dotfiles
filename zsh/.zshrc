@@ -25,6 +25,7 @@ plug "zap-zsh/exa"
 plug "Aloxaf/fzf-tab"
 plug "zsh-users/zsh-syntax-highlighting"
 
+setopt sharehistory
 
 
 # keybinds

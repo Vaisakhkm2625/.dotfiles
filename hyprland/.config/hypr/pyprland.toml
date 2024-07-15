@@ -1,0 +1,25 @@
+[pyprland]
+plugins = [
+  "scratchpads",
+    "magnify",
+    "expose"
+]
+
+[scratchpads.term]
+animation = "fromTop"
+command = "kitty --class kitty-dropterm"
+class = "kitty-dropterm"
+size = "75% 60%"
+
+[scratchpads.whatsapp]
+animation = "fromTop"
+command = "firefox --new-window web.whatsapp.com"
+lazy=true
+size = "75% 60%"
+
+[scratchpads.easyeffects]
+animation = "fromTop"
+command = "easyeffects"
+class = "com.github.wwmm.easyeffects"
+lazy=true
+size = "80% 80%"

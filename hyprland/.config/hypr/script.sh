@@ -10,7 +10,7 @@ nm-applet --indicator &
 pkill xremap
 xremap ~/.config/xremap/config.yml --watch=config &
 
-bash ~/dotfiles/scripts/suspendidle.sh &
+#bash ~/dotfiles/scripts/suspendidle.sh &
 
 wl-paste --type text --watch cliphist store &
 wl-paste --type image --watch cliphist store &
