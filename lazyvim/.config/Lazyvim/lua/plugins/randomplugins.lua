@@ -2,7 +2,7 @@ return {
     { "folke/noice.nvim", enabled = true },
     { "folke/zen-mode.nvim", enabled = true },
     { "HiPhish/nvim-ts-rainbow2", enabled = true },
-    { "yuratomo/w3m.vim", enabled = true },
+    { "yuratomo/w3m.vim", enabled = false},
     {
         "OXY2DEV/markview.nvim",
         dependencies = {

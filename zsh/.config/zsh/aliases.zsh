@@ -5,6 +5,7 @@ alias rm='rm -i'
 
 alias pyt='nix-shell -p python311 --command python'
 
+alias deviceinfo='nix run nixpkgs\#inxi -- "-Fxzs"'
 
 
 alias lazyvim='NVIM_APPNAME=Lazyvim nvim' 
